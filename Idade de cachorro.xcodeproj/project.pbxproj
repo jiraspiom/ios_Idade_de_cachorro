@@ -12,6 +12,7 @@
 		0FFC226C21629A4D0073B6A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FFC226A21629A4D0073B6A0 /* Main.storyboard */; };
 		0FFC226E21629A4E0073B6A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FFC226D21629A4E0073B6A0 /* Assets.xcassets */; };
 		0FFC227121629A4E0073B6A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FFC226F21629A4E0073B6A0 /* LaunchScreen.storyboard */; };
+		0FFC227921629B020073B6A0 /* cachorro.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FFC227821629B020073B6A0 /* cachorro.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0FFC226D21629A4E0073B6A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0FFC227021629A4E0073B6A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0FFC227221629A4E0073B6A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FFC227821629B020073B6A0 /* cachorro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cachorro.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				0FFC226621629A4D0073B6A0 /* AppDelegate.swift */,
 				0FFC226821629A4D0073B6A0 /* ViewController.swift */,
+				0FFC227821629B020073B6A0 /* cachorro.png */,
 				0FFC226A21629A4D0073B6A0 /* Main.storyboard */,
 				0FFC226D21629A4E0073B6A0 /* Assets.xcassets */,
 				0FFC226F21629A4E0073B6A0 /* LaunchScreen.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FFC227921629B020073B6A0 /* cachorro.png in Resources */,
 				0FFC227121629A4E0073B6A0 /* LaunchScreen.storyboard in Resources */,
 				0FFC226E21629A4E0073B6A0 /* Assets.xcassets in Resources */,
 				0FFC226C21629A4D0073B6A0 /* Main.storyboard in Resources */,
